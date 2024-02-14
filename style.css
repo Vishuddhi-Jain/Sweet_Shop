@@ -568,7 +568,7 @@ input[name="r"]
     position: absolute;
     top: 25%;
     left: 10%;
-    width: 600px;
+    max-width: 600px;
     padding: 10px 20px;
     /* background-color: pink; */
 }
@@ -703,7 +703,7 @@ input[name="r"]
 
     .subs_details2 input[type="email"]
     {
-        width: 400px;
+        width: 300px;
         height: 40px;
         padding: 15px ;
         margin-right: 0;
